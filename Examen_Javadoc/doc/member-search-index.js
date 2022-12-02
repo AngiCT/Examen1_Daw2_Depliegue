@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Circulo","l":"area()"},{"p":"<Unnamed>","c":"Circulo","l":"Circulo(double, double, double)","u":"%3Cinit%3E(double,double,double)"},{"p":"<Unnamed>","c":"Circulo","l":"contiene(double, double)","u":"contiene(double,double)"}];updateSearchResults();
